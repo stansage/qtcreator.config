@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 4.6.2, 2018-08-01T22:03:34. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAUAAACgAC8AbwBwAHQALwBwAG8AawB5AC8AMgAuADQALgAzAC8AcwB5AHMAcgBvAG8AdABzAC8AYwBvAHIAZQBpADcALQA2ADQALQBwAG8AawB5AC0AbABpAG4AdQB4AC8AdQBzAHIALwBpAG4AYwBsAHUAZABlAC8AbABpAGIAbgBsADMALwBuAGUAdABsAGkAbgBrAC8AdQB0AGkAbABzAC4AaAAAAAwAAAAAHAAAAAEAAAAAAAAAAAAAABAAAAARAAAAAQAAAAAAAAB8AC8AaABvAG0AZQAvAHMAdABhAG4AcwBhAGcAZQAvAFAAcgBvAGoAZQBjAHQAcwAvAE0ATgBUAEMATwBOAFQASQBfAHQAcgB1AG4AawAvAG4AZQB0AHcAbwByAGsAZQByAC8AbgBlAHQAdwBvAHIAawBlAHIALgBwAHIAbwAAAAwAAAAAGAAAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAH4ALwBoAG8AbQBlAC8AcwB0AGEAbgBzAGEAZwBlAC8AUAByAG8AagBlAGMAdABzAC8ATQBOAFQAQwBPAE4AVABJAF8AdAByAHUAbgBrAC8AbgBlAHQAdwBvAHIAawBlAHIALwBOAGUAdABNAGEAbgBhAGcAZQByAC4AYwBwAHAAAAAMAAAAABgAAAABAAAABgAAAAAAAAAVAAAAFAAAAAAAAAB2AC8AaABvAG0AZQAvAHMAdABhAG4AcwBhAGcAZQAvAFAAcgBvAGoAZQBjAHQAcwAvAE0ATgBUAEMATwBOAFQASQBfAHQAcgB1AG4AawAvAGcAbgBzAHMALwBuAG0AZQBhAF8AcAByAG8AdABvAGMAbwBsAC4AaAAAAAwAAAAAHAAAAAEAAAAAAAAAAAAAABUAAAAAAAAAAQAAAAAAAAB6AC8AaABvAG0AZQAvAHMAdABhAG4AcwBhAGcAZQAvAFAAcgBvAGoAZQBjAHQAcwAvAE0ATgBUAEMATwBOAFQASQBfAHQAcgB1AG4AawAvAGcAbgBzAHMALwBuAG0AZQBhAF8AcAByAG8AdABvAGMAbwBsAC4AYwBwAHAAAAAMAAAAABwAAAABAAABbwAAAAAAAAGKAAAAFAAAAAEAAAAAAAAABQAAAH4ALwBoAG8AbQBlAC8AcwB0AGEAbgBzAGEAZwBlAC8AUAByAG8AagBlAGMAdABzAC8ATQBOAFQAQwBPAE4AVABJAF8AdAByAHUAbgBrAC8AbgBlAHQAdwBvAHIAawBlAHIALwBOAGUAdABNAGEAbgBhAGcAZQByAC4AYwBwAHAAAAAcAE4AZQB0AE0AYQBuAGEAZwBlAHIALgBjAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAfAAvAGgAbwBtAGUALwBzAHQAYQBuAHMAYQBnAGUALwBQAHIAbwBqAGUAYwB0AHMALwBNAE4AVABDAE8ATgBUAEkAXwB0AHIAdQBuAGsALwBuAGUAdAB3AG8AcgBrAGUAcgAvAG4AZQB0AHcAbwByAGsAZQByAC4AcAByAG8AAAAaAG4AZQB0AHcAbwByAGsAZQByAC4AcAByAG8AAAARUXQ0LnByb0ZpbGVFZGl0b3IAAAB6AC8AaABvAG0AZQAvAHMAdABhAG4AcwBhAGcAZQAvAFAAcgBvAGoAZQBjAHQAcwAvAE0ATgBUAEMATwBOAFQASQBfAHQAcgB1AG4AawAvAGcAbgBzAHMALwBuAG0AZQBhAF8AcAByAG8AdABvAGMAbwBsAC4AYwBwAHAAAAAiAG4AbQBlAGEAXwBwAHIAbwB0AG8AYwBvAGwALgBjAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAdgAvAGgAbwBtAGUALwBzAHQAYQBuAHMAYQBnAGUALwBQAHIAbwBqAGUAYwB0AHMALwBNAE4AVABDAE8ATgBUAEkAXwB0AHIAdQBuAGsALwBnAG4AcwBzAC8AbgBtAGUAYQBfAHAAcgBvAHQAbwBjAG8AbAAuAGgAAAAeAG4AbQBlAGEAXwBwAHIAbwB0AG8AYwBvAGwALgBoAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAACgAC8AbwBwAHQALwBwAG8AawB5AC8AMgAuADQALgAzAC8AcwB5AHMAcgBvAG8AdABzAC8AYwBvAHIAZQBpADcALQA2ADQALQBwAG8AawB5AC0AbABpAG4AdQB4AC8AdQBzAHIALwBpAG4AYwBsAHUAZABlAC8AbABpAGIAbgBsADMALwBuAGUAdABsAGkAbgBrAC8AdQB0AGkAbABzAC4AaAAAAA4AdQB0AGkAbABzAC4AaAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAA2QAAAA1jdXJyZW50ZWRpdG9yAAAAfgAvAGgAbwBtAGUALwBzAHQAYQBuAHMAYQBnAGUALwBQAHIAbwBqAGUAYwB0AHMALwBNAE4AVABDAE8ATgBUAEkAXwB0AHIAdQBuAGsALwBuAGUAdAB3AG8AcgBrAGUAcgAvAE4AZQB0AE0AYQBuAGEAZwBlAHIALgBjAHAAcAAAACYAQwBwAHAARQBkAGkAdABvAHIALgBDACsAKwBFAGQAaQB0AG8AcgAAABgAAAABAAAABgAAAAAAAAAVAAAAFAAAAAA=</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/stansage/Projects/MNTCONTI_trunk/mntconti.pro</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/stansage/Projects/MNTCONTI_trunk/mntconti.pro</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/home/stansage/Projects/MNTCONTI_trunk/networker</value>
+    <value type="QString">Sources</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/stansage/Projects/MNTCONTI_trunk/networker/networker.pro</value>
+    <value type="QString">networker</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/stansage/Projects/MNTCONTI_trunk/gnss</value>
+    <value type="QString">Headers</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/stansage/Projects/MNTCONTI_trunk</value>
+    <value type="QString">mntconti [224M]</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/stansage/Projects/MNTCONTI_trunk/gnss</value>
+    <value type="QString">Sources</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">IndividualFormats</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>

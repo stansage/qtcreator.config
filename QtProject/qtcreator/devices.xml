@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorDevices>
+<!-- Written by QtCreator 4.6.2, 2018-08-01T22:03:34. -->
+<qtcreator>
+ <data>
+  <variable>DeviceManager</variable>
+  <valuemap type="QVariantMap">
+   <valuemap type="QVariantMap" key="DefaultDevices">
+    <value type="QString" key="Desktop">Desktop Device</value>
+    <value type="QString" key="GenericLinuxOsType">{a55b1c55-58d7-456a-abfe-36e14fc739a0}</value>
+   </valuemap>
+   <valuelist type="QVariantList" key="DeviceList">
+    <valuemap type="QVariantMap">
+     <value type="int" key="Authentication">1</value>
+     <value type="QString" key="DebugServerKey"></value>
+     <value type="QString" key="FreePortsSpec">30000-31000</value>
+     <value type="QString" key="Host"></value>
+     <value type="int" key="HostKeyChecking">0</value>
+     <value type="QString" key="InternalId">Desktop Device</value>
+     <value type="QString" key="KeyFile"></value>
+     <value type="QString" key="Name">Local PC</value>
+     <value type="int" key="Origin">1</value>
+     <value type="QString" key="OsType">Desktop</value>
+     <value type="QString" key="Password"></value>
+     <value type="QString" key="QmlsceneKey"></value>
+     <value type="int" key="SshOptions">3</value>
+     <value type="int" key="SshPort">0</value>
+     <value type="int" key="Timeout">0</value>
+     <value type="int" key="Type">0</value>
+     <value type="QString" key="Uname"></value>
+     <value type="int" key="Version">0</value>
+    </valuemap>
+    <valuemap type="QVariantMap">
+     <value type="int" key="Authentication">3</value>
+     <value type="QString" key="DebugServerKey"></value>
+     <value type="QString" key="FreePortsSpec">10000-10100</value>
+     <value type="QString" key="Host">192.168.0.68</value>
+     <value type="int" key="HostKeyChecking">0</value>
+     <value type="QString" key="InternalId">{a55b1c55-58d7-456a-abfe-36e14fc739a0}</value>
+     <value type="QString" key="KeyFile"></value>
+     <value type="QString" key="Name">Remote Linux Device</value>
+     <value type="int" key="Origin">0</value>
+     <value type="QString" key="OsType">GenericLinuxOsType</value>
+     <value type="QString" key="Password">drikbn</value>
+     <value type="QString" key="QmlsceneKey"></value>
+     <value type="int" key="SshOptions">1</value>
+     <value type="int" key="SshPort">22</value>
+     <value type="int" key="Timeout">10</value>
+     <value type="int" key="Type">0</value>
+     <value type="QString" key="Uname">vega-mdvr</value>
+     <value type="int" key="Version">0</value>
+    </valuemap>
+    <valuemap type="QVariantMap">
+     <value type="int" key="Authentication">3</value>
+     <value type="QString" key="DebugServerKey"></value>
+     <value type="QString" key="FreePortsSpec">10000-10100</value>
+     <value type="QString" key="Host">192.168.0.176</value>
+     <value type="int" key="HostKeyChecking">0</value>
+     <value type="QString" key="InternalId">{d6577ecd-5e63-4fad-882f-b17e16ca3fe9}</value>
+     <value type="QString" key="KeyFile">/home/stansage/.ssh/id_rsa.mntconti-yocto-docker</value>
+     <value type="QString" key="Name">Yocto Linux Device</value>
+     <value type="int" key="Origin">0</value>
+     <value type="QString" key="OsType">GenericLinuxOsType</value>
+     <value type="QString" key="Password"></value>
+     <value type="QString" key="QmlsceneKey"></value>
+     <value type="int" key="SshOptions">1</value>
+     <value type="int" key="SshPort">22</value>
+     <value type="int" key="Timeout">10</value>
+     <value type="int" key="Type">0</value>
+     <value type="QString" key="Uname">mntconti</value>
+     <value type="int" key="Version">0</value>
+    </valuemap>
+   </valuelist>
+  </valuemap>
+ </data>
+</qtcreator>

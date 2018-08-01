@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Written on вт июл. 17 22:04:03 2018 by Qt Creator 4.6.2-->
+<externaltool id="New_Tool">
+    <description>Atom editor</description>
+    <displayname>Atom</displayname>
+    <category></category>
+    <executable output="showinpane" error="showinpane" modifiesdocument="no">
+        <path>/usr/bin/atom</path>
+        <arguments>%{CurrentProject:FilePath}</arguments>
+        <workingdirectory>%{CurrentProject:Path}</workingdirectory>
+    </executable>
+</externaltool>

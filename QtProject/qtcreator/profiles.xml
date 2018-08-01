@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProfiles>
+<!-- Written by QtCreator 4.6.2, 2018-08-01T22:03:34. -->
+<qtcreator>
+ <data>
+  <variable>Profile.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="PE.Profile.AutoDetected">true</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <value type="QString"></value>
+    <value type="QString" key="Android.GdbServer.Information"></value>
+    <valuelist type="QVariantList" key="CMake.ConfigurationKitInformation">
+     <value type="QString">QT_QMAKE_EXECUTABLE:STRING=%{Qt:qmakeExecutable}</value>
+     <value type="QString">CMAKE_PREFIX_PATH:STRING=%{Qt:QT_INSTALL_PREFIX}</value>
+     <value type="QString">CMAKE_C_COMPILER:STRING=%{Compiler:Executable:C}</value>
+     <value type="QString">CMAKE_CXX_COMPILER:STRING=%{Compiler:Executable:Cxx}</value>
+    </valuelist>
+    <valuemap type="QVariantMap" key="CMake.GeneratorKitInformation">
+     <value type="QString" key="ExtraGenerator">CodeBlocks</value>
+     <value type="QString" key="Generator">Unix Makefiles</value>
+     <value type="QString" key="Platform"></value>
+     <value type="QString" key="Toolset"></value>
+    </valuemap>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{250faafe-5414-40b9-a0f2-e6f9453cbe05}</value>
+    <value type="QString" key="Debugger.Information">{ac5e436a-603e-4a95-a0c7-8efe49998d2d}</value>
+    <value type="QString" key="PE.Profile.Device">Desktop Device</value>
+    <value type="QString" key="PE.Profile.DeviceType">Desktop</value>
+    <valuelist type="QVariantList" key="PE.Profile.Environment"/>
+    <value type="QString" key="PE.Profile.SysRoot"></value>
+    <valuemap type="QVariantMap" key="PE.Profile.ToolChains">
+     <value type="QString" key="C">x86-linux-generic-elf-64bit</value>
+     <value type="QString" key="Cxx">x86-linux-generic-elf-64bit</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
+     <value type="QByteArray" key="C">{2b3792ef-bef9-4731-9b79-805f8c455ca1}</value>
+     <value type="QByteArray" key="Cxx">{75ef32db-2965-4cdc-ac97-be22e702da2c}</value>
+    </valuemap>
+    <value type="QString" key="QtPM4.mkSpecInformation"></value>
+    <value type="QString" key="QtSupport.QtInformation">SDK.qt.596.gcc_64</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.Icon"></value>
+   <value type="QString" key="PE.Profile.Id">qt.596.gcc_64_kit</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">Desktop Qt %{Qt:Version} GCC 64bit3</value>
+   <value type="bool" key="PE.Profile.SDK">true</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
+    <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.DeviceType</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Profile.1</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="PE.Profile.AutoDetected">false</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <value type="QString"></value>
+    <value type="QString" key="Android.GdbServer.Information"></value>
+    <valuelist type="QVariantList" key="CMake.ConfigurationKitInformation">
+     <value type="QString">QT_QMAKE_EXECUTABLE:STRING=%{Qt:qmakeExecutable}</value>
+     <value type="QString">CMAKE_PREFIX_PATH:STRING=%{Qt:QT_INSTALL_PREFIX}</value>
+     <value type="QString">CMAKE_C_COMPILER:STRING=%{Compiler:Executable:C}</value>
+     <value type="QString">CMAKE_CXX_COMPILER:STRING=%{Compiler:Executable:Cxx}</value>
+    </valuelist>
+    <valuemap type="QVariantMap" key="CMake.GeneratorKitInformation">
+     <value type="QString" key="ExtraGenerator">CodeBlocks</value>
+     <value type="QString" key="Generator">Unix Makefiles</value>
+     <value type="QString" key="Platform"></value>
+     <value type="QString" key="Toolset"></value>
+    </valuemap>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{250faafe-5414-40b9-a0f2-e6f9453cbe05}</value>
+    <value type="QString" key="Debugger.Information">{ac5e436a-603e-4a95-a0c7-8efe49998d2d}</value>
+    <value type="QString" key="PE.Profile.Device">{a55b1c55-58d7-456a-abfe-36e14fc739a0}</value>
+    <value type="QString" key="PE.Profile.DeviceType">GenericLinuxOsType</value>
+    <valuelist type="QVariantList" key="PE.Profile.Environment"/>
+    <value type="QString" key="PE.Profile.SysRoot">/var/local/xenial</value>
+    <valuemap type="QVariantMap" key="PE.Profile.ToolChains">
+     <value type="QString" key="C">x86-linux-generic-elf-64bit</value>
+     <value type="QString" key="Cxx">x86-linux-generic-elf-64bit</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
+     <value type="QByteArray" key="C">{2b3792ef-bef9-4731-9b79-805f8c455ca1}</value>
+     <value type="QByteArray" key="Cxx">{75ef32db-2965-4cdc-ac97-be22e702da2c}</value>
+    </valuemap>
+    <value type="QString" key="QtPM4.mkSpecInformation"></value>
+    <value type="int" key="QtSupport.QtInformation">5</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.Icon"></value>
+   <value type="QString" key="PE.Profile.Id">{09bdf5a3-d587-478a-821a-5030753ecd72}</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">Desktop(vega-nvr) Qt %{Qt:Version} GCC 64bit</value>
+   <value type="bool" key="PE.Profile.SDK">false</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
+    <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.DeviceType</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Profile.2</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="PE.Profile.AutoDetected">false</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <value type="QString"></value>
+    <value type="QString" key="Android.GdbServer.Information"></value>
+    <valuelist type="QVariantList" key="CMake.ConfigurationKitInformation">
+     <value type="QString">QT_QMAKE_EXECUTABLE:STRING=%{Qt:qmakeExecutable}</value>
+     <value type="QString">CMAKE_PREFIX_PATH:STRING=%{Qt:QT_INSTALL_PREFIX}</value>
+     <value type="QString">CMAKE_C_COMPILER:STRING=%{Compiler:Executable:C}</value>
+     <value type="QString">CMAKE_CXX_COMPILER:STRING=%{Compiler:Executable:Cxx}</value>
+    </valuelist>
+    <valuemap type="QVariantMap" key="CMake.GeneratorKitInformation">
+     <value type="QString" key="ExtraGenerator">CodeBlocks</value>
+     <value type="QString" key="Generator">Unix Makefiles</value>
+     <value type="QString" key="Platform"></value>
+     <value type="QString" key="Toolset"></value>
+    </valuemap>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{250faafe-5414-40b9-a0f2-e6f9453cbe05}</value>
+    <value type="QString" key="Debugger.Information">{ac5e436a-603e-4a95-a0c7-8efe49998d2d}</value>
+    <value type="QString" key="PE.Profile.Device">{a55b1c55-58d7-456a-abfe-36e14fc739a0}</value>
+    <value type="QString" key="PE.Profile.DeviceType">GenericLinuxOsType</value>
+    <valuelist type="QVariantList" key="PE.Profile.Environment"/>
+    <value type="QString" key="PE.Profile.SysRoot"></value>
+    <valuemap type="QVariantMap" key="PE.Profile.ToolChains">
+     <value type="QString" key="C">x86-linux-generic-elf-64bit</value>
+     <value type="QString" key="Cxx">x86-linux-generic-elf-64bit</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
+     <value type="QByteArray" key="C">{2b3792ef-bef9-4731-9b79-805f8c455ca1}</value>
+     <value type="QByteArray" key="Cxx">{75ef32db-2965-4cdc-ac97-be22e702da2c}</value>
+    </valuemap>
+    <value type="QString" key="QtPM4.mkSpecInformation"></value>
+    <value type="int" key="QtSupport.QtInformation">5</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.Icon"></value>
+   <value type="QString" key="PE.Profile.Id">{e43de552-24a8-4833-b589-345548b5c1df}</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">Remote(vega-nvr) Qt %{Qt:Version} GCC 64bit</value>
+   <value type="bool" key="PE.Profile.SDK">false</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
+    <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.DeviceType</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Profile.3</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="PE.Profile.AutoDetected">false</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <value type="QString"></value>
+    <value type="QString" key="Android.GdbServer.Information"></value>
+    <valuelist type="QVariantList" key="CMake.ConfigurationKitInformation">
+     <value type="QString">QT_QMAKE_EXECUTABLE:STRING=%{Qt:qmakeExecutable}</value>
+     <value type="QString">CMAKE_PREFIX_PATH:STRING=%{Qt:QT_INSTALL_PREFIX}</value>
+     <value type="QString">CMAKE_C_COMPILER:STRING=%{Compiler:Executable:C}</value>
+     <value type="QString">CMAKE_CXX_COMPILER:STRING=%{Compiler:Executable:Cxx}</value>
+    </valuelist>
+    <valuemap type="QVariantMap" key="CMake.GeneratorKitInformation">
+     <value type="QString" key="ExtraGenerator">CodeBlocks</value>
+     <value type="QString" key="Generator">Unix Makefiles</value>
+     <value type="QString" key="Platform"></value>
+     <value type="QString" key="Toolset"></value>
+    </valuemap>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{250faafe-5414-40b9-a0f2-e6f9453cbe05}</value>
+    <value type="QString" key="Debugger.Information">{a3be3164-6616-4261-815f-2f2a44fbc979}</value>
+    <value type="QString" key="PE.Profile.Device">{d6577ecd-5e63-4fad-882f-b17e16ca3fe9}</value>
+    <value type="QString" key="PE.Profile.DeviceType">GenericLinuxOsType</value>
+    <valuelist type="QVariantList" key="PE.Profile.Environment">
+     <value type="QString">TARGET_PREFIX=x86_64-poky-linux-</value>
+     <value type="QString">CONFIGURE_FLAGS=--target=x86_64-poky-linux --host=x86_64-poky-linux --build=x86_64-linux --with-libtool-sysroot=/opt/poky/2.4.3/sysroots/corei7-64-poky-linux</value>
+     <value type="QString">CFLAGS= -O2 -pipe -g -feliminate-unused-debug-types </value>
+     <value type="QString">CXXFLAGS= -O2 -pipe -g -feliminate-unused-debug-types </value>
+     <value type="QString">LDFLAGS=-Wl,-O1 -Wl,--hash-style=gnu -Wl,--as-needed</value>
+     <value type="QString">CPPFLAGS=</value>
+     <value type="QString">KCFLAGS=--sysroot=/opt/poky/2.4.3/sysroots/corei7-64-poky-linux</value>
+     <value type="QString">OECORE_DISTRO_VERSION=2.4.3</value>
+     <value type="QString">OECORE_SDK_VERSION=2.4.3</value>
+     <value type="QString">ARCH=x86</value>
+     <value type="QString">CROSS_COMPILE=x86_64-poky-linux-</value>
+     <value type="QString">OE_QMAKE_CFLAGS= -O2 -pipe -g -feliminate-unused-debug-types </value>
+     <value type="QString">OE_QMAKE_CXXFLAGS= -O2 -pipe -g -feliminate-unused-debug-types </value>
+     <value type="QString">OE_QMAKE_LDFLAGS=-Wl,-O1 -Wl,--hash-style=gnu -Wl,--as-needed</value>
+     <value type="QString">OE_QMAKE_CC=x86_64-poky-linux-gcc  -m64 -march=corei7 -mtune=corei7 -mfpmath=sse -msse4.2 --sysroot=/opt/poky/2.4.3/sysroots/corei7-64-poky-linux</value>
+     <value type="QString">OE_QMAKE_CXX=x86_64-poky-linux-g++  -m64 -march=corei7 -mtune=corei7 -mfpmath=sse -msse4.2 --sysroot=/opt/poky/2.4.3/sysroots/corei7-64-poky-linux</value>
+     <value type="QString">OE_QMAKE_LINK=x86_64-poky-linux-g++  -m64 -march=corei7 -mtune=corei7 -mfpmath=sse -msse4.2 --sysroot=/opt/poky/2.4.3/sysroots/corei7-64-poky-linux</value>
+     <value type="QString">OE_QMAKE_AR=x86_64-poky-linux-ar</value>
+     <value type="QString">QT_CONF_PATH=/opt/poky/2.4.3/sysroots/x86_64-pokysdk-linux/usr/bin/qt5/qt.conf</value>
+     <value type="QString">OE_QMAKE_LIBDIR_QT=/opt/poky/2.4.3/sysroots/corei7-64-poky-linux/usr/lib</value>
+     <value type="QString">OE_QMAKE_INCDIR_QT=/opt/poky/2.4.3/sysroots/corei7-64-poky-linux/usr/include/qt5</value>
+     <value type="QString">OE_QMAKE_MOC=/opt/poky/2.4.3/sysroots/x86_64-pokysdk-linux/usr/bin/qt5/moc</value>
+     <value type="QString">OE_QMAKE_UIC=/opt/poky/2.4.3/sysroots/x86_64-pokysdk-linux/usr/bin/qt5/uic</value>
+     <value type="QString">OE_QMAKE_RCC=/opt/poky/2.4.3/sysroots/x86_64-pokysdk-linux/usr/bin/qt5/rcc</value>
+     <value type="QString">OE_QMAKE_QDBUSCPP2XML=/opt/poky/2.4.3/sysroots/x86_64-pokysdk-linux/usr/bin/qt5/qdbuscpp2xml</value>
+     <value type="QString">OE_QMAKE_QDBUSXML2CPP=/opt/poky/2.4.3/sysroots/x86_64-pokysdk-linux/usr/bin/qt5/qdbusxml2cpp</value>
+     <value type="QString">OE_QMAKE_QT_CONFIG=/opt/poky/2.4.3/sysroots/corei7-64-poky-linux/usr/lib/qt5/mkspecs/qconfig.pri</value>
+     <value type="QString">OE_QMAKE_PATH_HOST_BINS=/opt/poky/2.4.3/sysroots/x86_64-pokysdk-linux/usr/bin/qt5</value>
+     <value type="QString">QMAKESPEC=/opt/poky/2.4.3/sysroots/corei7-64-poky-linux/usr/lib/qt5/mkspecs/linux-oe-g++</value>
+     <value type="QString">_=/usr/bin/env</value>
+    </valuelist>
+    <value type="QString" key="PE.Profile.SysRoot">/opt/poky/2.4.3/sysroots/corei7-64-poky-linux</value>
+    <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
+     <value type="QByteArray" key="C">{ab1e82ef-38c7-4a1a-992f-e492e091c11c}</value>
+     <value type="QByteArray" key="Cxx">{ab76a017-40d4-4e8b-a2d9-fab79e124b35}</value>
+    </valuemap>
+    <value type="QString" key="QtPM4.mkSpecInformation">linux-oe-g++</value>
+    <value type="int" key="QtSupport.QtInformation">8</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.Icon"></value>
+   <value type="QString" key="PE.Profile.Id">{85297f08-b4d1-4610-b5bc-7b53431bdc55}</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">Yocto</value>
+   <value type="bool" key="PE.Profile.SDK">false</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo"/>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Profile.Count</variable>
+  <value type="int">4</value>
+ </data>
+ <data>
+  <variable>Profile.Default</variable>
+  <value type="QString">{09bdf5a3-d587-478a-821a-5030753ecd72}</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>
